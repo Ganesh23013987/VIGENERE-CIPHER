@@ -103,7 +103,7 @@ int main()
 ```
 
 ## OUTPUT
-<img width="426" alt="image" src="https://github.com/user-attachments/assets/11957add-f80a-4900-a273-3ae0afcfddfa" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/11957add-f80a-4900-a273-3ae0afcfddfa" />
 
 ## RESULT
 The program is executed successfully
